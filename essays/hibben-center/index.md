@@ -4,7 +4,7 @@ title: Hibben Center
 author: Lillian Brucker
 category: Academic Building                  # change to a category from the student guide
 header-image: hibben-center-today.jpg   # the filename of your own image
-header-caption: ZIM CSWR UNM Archives UNMA 028 Box 2, Hibben Center for Archeology Research - exterior - building sign
+header-caption: ZIM CSWR UNM Archives UNMA 028 Box 2, Hibben Center for Archeology Research exterior building sign
 
 # Fill these in later, once your research is under way.
 card-description: Replace this with two sentences that summarize the story your essay tells and why it matters.
